@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name_txt">Jones Mbindyo</string>
+    <string name="yellow_star">Yellow star</string>
+    
+    <string name="bio">
+        \n\nMy name is Jones Mbindyo.
+        \n\nI\'m problem solving oriented enthusiast to ensure changes and disruptions in the technology industry can have significant influence
+        on the future.
+        \nI can conduct research, plan, design, write, test, provide advice and improve information technology systems,
+        software and related concepts for specific applications.
+        \n\nI can also develop associated documentation and design, develop, control, maintain and support databases and other information systems
+        to ensure optimal performance and data integrity and security.
+        \n\nMy main objective is structure on issues surrounding development and implementation of IT solutions that meets information technology
+        needs in modern business.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+    <string name="button_txt">Done</string>
+</resources>
