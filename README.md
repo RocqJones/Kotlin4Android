@@ -17,8 +17,9 @@ NotificationCompat offers built-in styles for:
 
 #### Notification badges.
 Notification badges are small dots that appear on the launcher icon of the associated app when the app has an active notification. Users can long-press on the app icon to reveal the notifications.
-<a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/dot1.png" height="300" width="200" ></a>
-<a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/dot2.png" height="300" width="200" ></a>
+
+<a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/dot1.png" height="200" width="300" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/dot2.png" height="200" width="300" ></a>
 
 #### Summary
 * Using NotificationManager class to create, send, update, and cancel a notification using.
