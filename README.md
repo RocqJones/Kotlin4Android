@@ -19,7 +19,7 @@ NotificationCompat offers built-in styles for:
 Notification badges are small dots that appear on the launcher icon of the associated app when the app has an active notification. Users can long-press on the app icon to reveal the notifications.
 ![do1](img/dot1.png) ![dot2](img/dot2.png)
 
-Summary
+#### Summary
 * Using NotificationManager class to create, send, update, and cancel a notification using.
 * A NotificationChannel object with the createNotificationChannel method to set a channel for the notification.
 * Using addAction() to add quick actions to a notification.
