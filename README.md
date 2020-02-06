@@ -1,7 +1,7 @@
 # Kotlin4Android
 Android apps made with Kotlin
 
-## 6. Android Kotlin Notification
+## 7. Android Kotlin Notification
 #### Kotlin Structure
 * /receiver—The receiver package contains two broadcast receivers named AlarmReceiver and SnoozeReceiver. AlarmReceiver is triggered by the AlarmManager to send the notification when the user-defined timer is up. SnoozeReceiver handles the user click to snooze the notification.
 * /ui—This contains the EggTimerFragment which is part of the UI portion of the app. EggTimerViewModel is responsible for starting and canceling the timer and for other lifecycle-related app tasks.
