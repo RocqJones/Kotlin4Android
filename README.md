@@ -87,7 +87,7 @@ GDGs (Google Developer Groups) are communities of developers that focus on Googl
 <a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/gdg1.png" height="400" width="300" ></a>
 <a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/gdg2.png" height="400" width="300" ></a>
 
-## Guess Word Game.
+## 6. Guess Word Game.
 An app you can play with one or more friends. Your friends can then give you clues to help you guess the word. The app uses the following to make it interactive.
 * ViewModels.
 * LiveData.
