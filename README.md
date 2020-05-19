@@ -27,7 +27,6 @@ It leverages the following components from the Jetpack library:
 <a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/mars1.png" height="400" width="300" ></a>
 <a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/mars2.png" height="400" width="300" ></a>
 <a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/mars3.png" height="400" width="300" ></a>
-<a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/mars4.png" height="400" width="300" ></a>
 
 ## 3. Android Kotlin Notification
 #### Kotlin Structure
@@ -87,7 +86,6 @@ GDGs (Google Developer Groups) are communities of developers that focus on Googl
 #### Screenshots.
 <a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/gdg1.png" height="400" width="300" ></a>
 <a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/gdg2.png" height="400" width="300" ></a>
-<a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/gdg3.png" height="400" width="300" ></a>
 <a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/gdg4.png" height="400" width="300" ></a>
 
 ## 6. Guess Word Game.
