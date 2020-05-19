@@ -78,6 +78,7 @@ It also uses and builds on the following techniques from previous lessons:
 #### Screenshots
 <a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/sleep1.png" height="400" width="300" ></a>
 <a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/sleep2.png" height="400" width="300" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/sleep3.png" height="400" width="300" ></a>
 
 ## 5. GDG Finder
 GDGs (Google Developer Groups) are communities of developers that focus on Google technologies - including Android - around the world. They host lots of different events like meetups, conferences, study jams, and more!
@@ -86,6 +87,8 @@ GDGs (Google Developer Groups) are communities of developers that focus on Googl
 #### Screenshots.
 <a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/gdg1.png" height="400" width="300" ></a>
 <a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/gdg2.png" height="400" width="300" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/gdg3.png" height="400" width="300" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/gdg4.png" height="400" width="300" ></a>
 
 ## 6. Guess Word Game.
 An app you can play with one or more friends. Your friends can then give you clues to help you guess the word. The app uses the following to make it interactive.
@@ -94,3 +97,5 @@ An app you can play with one or more friends. Your friends can then give you clu
 #### Screenshots.
 <a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/guess1.png" height="400" width="300" ></a>
 <a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/guess2.png" height="400" width="300" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/guess3.png" height="400" width="300" ></a>
+<a href="url"><img src="https://github.com/RocqJones/Kotlin4Android/blob/master/img/guess4.png" height="400" width="300" ></a>
