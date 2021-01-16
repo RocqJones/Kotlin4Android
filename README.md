@@ -1,6 +1,13 @@
 # Kotlin4Android
 Android apps made with Kotlin
 
+## Fundamentals.
+### 1. Look for the build.gradle(Project: HelloWorld) file.
+* This file contains the configuration options that are common to all the modules that make up your project. Every Android Studio project contains a single, top-level Gradle build file. This file defines the Gradle repositories and dependencies that are common to all modules in the project.
+
+### 2. Look for the build.gradle(Module:app) file.
+* In addition to the project-level ```build.gradle``` file, each module has a ```build.gradle``` file of its own. The module-level ```build.gradle``` file allows you to configure build settings for each module. (The HelloWorld app has only one module, the module for the app itself.) This ```build.gradle``` file is the one you most often edit when changing app-level build configurations. For example, you edit this ```build.gradle``` file when you change the SDK level that your app supports, or when you declare new dependencies in the dependencies section. You learn more about both these things in a later codelab.
+
 ## 1. Dev Byte Viewer.
 DevByte Viewer is an example app that has short videos of developers from Udacity and Google giving talks on android development and tools used.
 **Demonstrates the following techniques:**
